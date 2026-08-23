@@ -1,7 +1,7 @@
 {
-  "name": "Musicfly",
-  "short_name": "Musicfly",
-  "description": "Musicfly - Modern Liquid Glass Music Streaming Platform",
+  "name": "FROUT",
+  "short_name": "FROUT",
+  "description": "FROUT - Modern Liquid Glass Music Streaming Platform",
   "start_url": "/",
   "id": "/",
   "display": "standalone",
@@ -9,13 +9,13 @@
   "theme_color": "#0A0A0A",
   "icons": [
     {
-      "src": "https://f.top4top.io/p_3733w0g4e0.jpg",
+      "src": "https://uploader.renn.my.id/renn/cdn_880303.png",
       "sizes": "192x192",
       "type": "image/jpeg",
       "purpose": "any maskable"
     },
     {
-      "src": "https://f.top4top.io/p_3733w0g4e0.jpg",
+      "src": "https://uploader.renn.my.id/renn/cdn_880303.png",
       "sizes": "512x512",
       "type": "image/jpeg",
       "purpose": "any maskable"
