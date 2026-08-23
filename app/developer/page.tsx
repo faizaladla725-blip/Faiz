@@ -176,7 +176,7 @@ export default function DeveloperPage() {
                 <Globe className="w-5 h-5 text-white/80 group-hover:text-white transition-colors" />
                 <span className="text-[10px] text-white/70 font-medium">Website</span>
               </a>
-              <a href="https://whatsapp.com/channel/0029Vb6ukqnHQbS4mKP0j80L" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center justify-center gap-2 liquid-glass-subtle hover:bg-white/10 p-3.5 rounded-2xl transition-all group">
+              <a href="https://whatsapp.com/channel/0029VbDszRoI7BeKiWEWvJ1l" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center justify-center gap-2 liquid-glass-subtle hover:bg-white/10 p-3.5 rounded-2xl transition-all group">
                 <Tv className="w-5 h-5 text-[#81B29A] group-hover:scale-110 transition-transform" />
                 <span className="text-[10px] text-white/70 font-medium">Saluran</span>
               </a>
